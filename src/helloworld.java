@@ -9,7 +9,7 @@ public class HelloWorld {
 
         System.out.println("This is an integration test");
         System.out.println("Next step is failing");
-        System.out.println("Online it's done");
+        System.out.println("Online was done");
     }
 
 }
