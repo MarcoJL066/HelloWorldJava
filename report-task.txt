@@ -1,0 +1,3 @@
+projectKey=group:artifact:branch
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=SonarGit
